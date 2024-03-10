@@ -9,9 +9,6 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
 
-<br>
-
-
 <img align="right" alt="img" src="https://github.com/Shenali-Madurapperuma/Shenali-Madurapperuma/blob/main/image.jpg" width="40%" height="auto" />
 
 
