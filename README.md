@@ -9,11 +9,13 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
 
-<img align="right" alt="img" src="https://github.com/Shenali-Madurapperuma/Shenali-Madurapperuma/blob/main/image.jpg" width="40%" height="auto" />
+<br>
+<img align="right" alt="img" src="https://github.com/Shenali-Madurapperuma/Shenali-Madurapperuma/blob/main/image.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
-- Learning Front End Development and new technologies  
+- Learning Front End Development and new technologies
+  
 - Taking online courses & Watching YouTube vides about Web development 
 - Diving into the world of 3D Animation! 🚀 
 
