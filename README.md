@@ -13,13 +13,13 @@ Let's connect and collaborate! Feel free to reach out via email at shenalimadura
 ```javascript
 const myTechStack = {
   hasExperience: {
-    programmingLanguages: ["HTML", "CSS", "JavaScript", "Java", "Python", "C"],
+    programmingLanguages: ["HTML", "CSS", "JavaScript", "TypeScript"],
     frameworksAndLibraries: {
       frontend: ["React.js"],
+      backend: ["Node.js", Express.js"],
+      database: ["MongoDB"],
       cssFrameworks: ["Tailwind CSS", "MUI (Material-UI)", "Bootstrap"],
       animationAndMotionLibraries: ["Framer Motion", "Gsap (GreenSock Animation Platform)", "LottieFiles"],
-      buildTools: ["Vite", "ESLint", "Prettier"],
-      otherTools: ["npm (Node Package Manager)", "Chrome DevTools"]
     },
     versionControlAndIDEs: {
       versionControl: ["Git", "GitHub"],
