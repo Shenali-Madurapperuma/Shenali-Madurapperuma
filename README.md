@@ -2,7 +2,7 @@
 
 ### <h6><img align="center" src="assets/intro.gif" width="50"> <em>A little more about me... </em></h6>
 ### <img align="right" width="300" alt="Hello" src="assets/hello.gif" />
-### I'm a <em>Software Engineer 🛠</em> with the background of <em>UI/UX Design</em>, and constantly exploring new techniques and trends.<br/>I'm really passionate about 💡 <em>software engineering, web development, game development, creative design, web animation and many more...</em><br/>Currently I am actively learning about web development tools & technologies, to expand my skill set! 🚀
+### I'm a <em>UI/UX Designer 🎨🛠</em> with a strong passion for <em>Software Engineering</em>, and creative problem-solving.<br/>I love blending design and development to build intuitive, engaging, and visually rich digital experiences.<br/>Currently exploring modern <em>web development tools & technologies</em> to expand my skill set and bridge creativity with code. 🚀
 
 ### 📫 Get in Touch:
 Let's connect and collaborate! Feel free to reach out via email at shenalimadurapperuma@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/shenali-madurapperuma/).
